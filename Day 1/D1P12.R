@@ -1,0 +1,6 @@
+a<-c(10,20,30)
+b<-c(40,50,60)
+c<-c(70,80,90)
+m<-cbind(a,b,c)
+print("Content of the said matrix:")
+print(m)

@@ -1,0 +1,5 @@
+num= c(5,10,15,20,25,30,35)
+print('Original vector:')
+print(num)   
+print(paste("Maximum value of the said vector:",max(num)))
+print(paste("Minimum value of the said vector:",min(num)))
